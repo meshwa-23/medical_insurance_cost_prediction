@@ -1,0 +1,10 @@
+{
+  "saved_at": "2025-09-22T04:37:15.193844Z",
+  "sklearn_version": "1.5.2",
+  "test_mae_usd": 2540.2397952564693,
+  "test_rmse_usd": 4612.232251368727,
+  "test_r2": 0.862976746179127,
+  "n_train": 1070,
+  "n_test": 268,
+  "target_scaling": "charges divided by 1000 before training"
+}
